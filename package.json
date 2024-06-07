@@ -1,0 +1,15 @@
+{
+  "name": "paralax",
+  "version": "1.0.0",
+  "description": "3d effect with paralax for title page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "I'am",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
